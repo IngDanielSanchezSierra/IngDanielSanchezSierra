@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @IngDanielSanchezSierra "Hello! I'm Daniel Sánchez Sierra, a software engineer with a passion for technology and education."
+- 👀 I’m interested in ... "I'm interested in software development, especially using technologies like .NET, Kotlin, Android development, and Azure DevOps. I also enjoy sharing knowledge through video tutorials and collaborating on open-source projects."
+- 🌱 I’m currently learning ... "Currently, I'm deepening my skills in Android development with Kotlin and Jetpack Compose, and exploring advanced DevOps practices using Azure DevOps."
+- 💞️ I’m looking to collaborate on ... "I'm open to collaborating on innovative mobile apps, .NET projects, or any software that aims to solve real-world problems. Let's build something awesome together!"
+- 📫 How to reach me ... "You can reach me on LinkedIn, or drop me an email at Ing.DanielSanchezSierra@gmail.com."
+- 😄 Pronouns: ... "He/Him"
+- ⚡ Fun fact: ... "Besides coding, I have a creative side that loves drawing and making art. I believe that both programming and art require a blend of creativity and logic!"
